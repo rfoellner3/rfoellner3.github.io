@@ -1,9 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
 #nav{
-	text-align: right;
+	text-align: center;
+	font-size: 25px;
+	background-color:#FFBC49;
 }
-
-#list1{
-	list-style: none;
+body{
+	background-color: white;
+}
+h4{
+	color:orange;
+}
+h5{
+	color:orange;
+}
+a:link{
+	color:orange;
+}
+#welcome{
+	text-align: center;
 }
