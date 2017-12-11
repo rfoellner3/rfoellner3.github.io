@@ -6,12 +6,16 @@
 	background-color:#FFBC49;
 }
 body{
-	background-color: white;
+	background-color: #FFFFFF;
+	font-size: 18px;
 }
 h4{
 	color:orange;
 }
 h5{
+	color:orange;
+}
+h6{
 	color:orange;
 }
 a:link{
